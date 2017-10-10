@@ -2,7 +2,6 @@
 #include <iostream>
 #include "IniFilesParser.h"
 
-
 int main() {
 	
 	try {
